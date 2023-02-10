@@ -1,0 +1,565 @@
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jennifer Love Hewitt', 'Jennifer Love Hewitt');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Robert Downey Jr.', 'Robert Downey-Jr.');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Joe Don Baker', 'Joe Don-Baker');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Anna Deavere Smith', 'Anna Deavere-Smith');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jon Bon Jovi', 'Bon Jovi');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Kristin Scott Thomas', 'Kristin Scott-Thomas');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Bachchan', 'Amitabh Bachchan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jamyang Jamtsho Wangchuk', 'Jamyang Jamtsho-Wangchuk');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Chow Chow', 'Chow');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Mary Elizabeth Mastrantonio', 'Mary Mastrantonio');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'LL Cool J', 'LL Cool-J');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Bryce Howard ', 'Bryce Howard');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Robert Sean Leonard','Robert Sean-Leonard');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Lou Taylor Pucci','Lou Taylor-Pucci');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jason Scott Lee','Jason Scott-Lee');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Randall Duk Kim','Randall Duk-Kim');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jada Pinkett Smith','Jada Pinkett-Smith');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jonathan Taylor Thomas','Jonathan Thomas');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Tom Lister Jr.','Tom-Lister Jr.');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jessica Brooks Grant','Jessica Brooks-Grant');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dee Bradley Baker','Dee Bradley-Baker');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Cedric the Entertainer','Cedric the-Entertainer');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'David Ogden Stiers','David Stiers');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Sarah Michelle Gellar','Sarah Gellar');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Marcia Gay Harden','Marcia Gay-Harden');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'James Earl Jones','James Earl-Jones');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Haley Joel Osment','Haley Joel-Osment');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Carice van Houten','Carice van-Houten');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Ernie Reyes, Jr.','Ernie-Reyes, Jr.');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Mary Elizabeth Winstead','Elizabeth Winstead');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Matthew Gray-Gubler','Matthew Gray-Gubler');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Seann William Scott','Seann Scott');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Sarah Jessica Parker','Sarah Jessica-Parker');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Hadley Belle Miller','Hadley Belle-Miller');
+
+UPDATE cast
+SET cast = REPLACE(cast,'David Hyde Pierce','David Hyde-Pierce');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Casper Van Dien','Casper Van-Dien');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jamie Lee Curtis','Jamie Lee-Curtis');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Michael Clarke Duncan','Michael Clarke-Duncan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Anika Noni Rose', 'Anika Noni-Rose');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Mario Van Peebles', 'Mario Van-Peebles');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Neil Patrick Harris', 'Neil Patrick-Harris');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dick Van Dyke', 'Dick Van-Dyke');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jamie Ren\u00e9e Smith', 'Jamie Smith');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Will Yun Lee', 'Will Yun-Lee');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jonny Lee Miller', 'Jonny Lee-Miller');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jackie Earle Haley', 'Jackie Earle-Haley');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Tim Blake Nelson', 'Tim Blake-Nelson');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jeffrey Dean Morgan', 'Jeffrey Dean-Morgan');
+
+
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Lara Flynn Boyle', 'Lara Flynn-Boyle');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Billy Bob Thornton', 'Billy Thornton');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Sacha Cohen ', 'Sacha Cohen');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Philip Seymour Hoffman', 'Philip Seymour-Hoffman');
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jonathan Rhys Meyers', 'Jonathan Rhys-Meyers');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'John Michael Higgins', 'John Higgins');
+
+UPDATE cast
+SET cast = REPLACE(cast,'James Badge Dale', 'James Dale');
+
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Thomas Haden Church', 'Thomas Church' ),
+    cast = REPLACE(cast,'Tommy Lee Jones', 'Tommy Jones'),
+    cast = REPLACE(cast,'Max von Sydow', 'Max VonSydow'),
+    cast = REPLACE(cast,'Dakota Blue Richards', 'Dakota Richards'),
+    cast = REPLACE(cast,'Bryce Dallas Howard', 'Bryce Howard'),
+    cast = REPLACE(cast,'Helena Bonham Carter', 'Helena Carter'),
+    cast = REPLACE(cast,'James Badge Dale', 'James Dale');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,' Redman Hannah', ' Reginald Noble Hannah');
+
+UPDATE cast
+SET cast = REPLACE(cast,' RZA', ' Robert Diggs');
+
+UPDATE cast
+SET cast = REPLACE(cast,' DMX', ' Earl Simmons');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Chao Li Chi', ' Chao-Li Chi');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Xzibit', ' Alvin Joiner');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Nique Paula Patton ', 'Nique Imes Paula Patton ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Prabhas', 'Uppalapati Prabhas');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Tautou Mathieu ', ' Tautou Zio Vittorio ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' T.I.', ' Clifford Harris');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Eminem', ' Marshall Mathers');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Litefoot', ' Gary Davis');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Sinbad', ' David Adkins');
+UPDATE cast
+SET cast = REPLACE(cast,'Cher Christina', 'Cherilyn Sarkisian Christina');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Orianthi', ' Orianthi Retta');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Miyavi', ' Takamasa Ishihara');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Irvin Nelly', ' Irvin Cornell Haynes');
+
+UPDATE cast
+SET cast = REPLACE(cast, ' G.W.Bailey', ' George Bailey' );
+
+
+
+
+
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,' Tabu', ' Fatima Hashmi');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Akon ', ' Aliaune Akon ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Rekha', ' Bhanurekha Ganesan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Arletty ', ' Marie Bathiat ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Ching-Wan Tang', 'Lau Ching-Wan Tang');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Lau Ching-Wan', 'Ching-Wan');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Washington Mario', ' Washington Mario Barrett');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Cher Chazz ', 'Cherilyn Sarkisian Chazz ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Ne-Yo ', ' Shaffer Smith ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Clayton  ', 'Clayton ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' K.D.Aubert', ' Karen Aubert');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Silverman Eve', ' Silverman Eve Cooper');
+
+UPDATE cast
+SET cast = REPLACE(cast,'T.I. ', 'Clifford Harris ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Ba Sen', ' Batdorj-in');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Mako', ' Mako Iwamatsu');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Yun-fat ', ' Chow Yun-fat ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' GQ', ' Gregory Qaiyum');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Steve-O', ' Stephen Glover');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dempsey Mario', 'Dempsey Mario Barrett');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Amidou ', ' Hamidou Benmessaoud ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Ice-T ', ' Tracy Marrow ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Li Lianjie ', 'Li Lianjie');
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Carlos Alberto Raphael DeLaSierra Phil Woosnam', 'Carlos Alberto Raphael DeLaSierra Phil_Woosnam');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Goenaga Nacho Vigalondo Juan Inciarte', 'Goenaga Nacho Vigalondo Juan_Inciarte');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Franck Khalfoun Andrei Finti', 'Franck Khalfoun Andrei_Finti');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Geraldine James Reha', 'Geraldine James Shabana Raza');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Taimak ', 'Taimak Guarriello ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Tang Wei Qin Hailu Jing Boran ', 'Tang Wei Qin Hailu Jing_Boran ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Queen Latifah Common Paula', 'Queen Latifah Common_Paula');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Peter Stormare Joel Grey', 'Peter_Stormare Joel Grey');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Vivica A.Fox Kevin Pollak', 'Vivica A.Fox Kevin_Pollak');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jim Belushi Cuba GoodingJr.', 'Jim Belushi Cuba_GoodingJr.');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Stuart Townsend Aaliyah Marguerite', 'Stuart Townsend Aaliyah_Marguerite');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Knightley Mickey Rourke', 'Knightley Mickey_Rourke');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Faizon Love E-40', 'Charlie Hustle');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dick Mario Van Peebles', 'Dick Mario Van_Peebles');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jason Gray-Stanford', 'Gray-Stanford');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Kyla Pratt Mandy', 'Kyla_Pratt Mandy');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Clayton  Larry Mullen', 'Clayton Larry Mullen');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Cher Judi Dench', 'Cherilyn Sarkisian Judi Dench');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dylan Bruno', 'Dylan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Simon Shabana Razan', 'Reha');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Emma Eliza Regan', ' Emma Regan');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Taylor Scott Olson', ' Taylor Olson');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Audrey Lynn Tennent', ' Audrey Tennent');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Mackenzie E.Danny', 'Mackenzie E. Danny');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Lalaine', ' Lalaine Vergara-Paras');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Mary Kate Wiles', ' Mary Wiles');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Mohammad', ' Mohamad Nader');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Krafft-Raschig', ' Krafft Raschig');
+
+UPDATE cast
+SET cast = REPLACE(cast,'David Hyde Pierce', 'David Pierce');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Brian Keith Allen', 'Brian Keith');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Neha', ' Shabana Raza');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Sting', ' Gordon Sumner');
+
+UPDATE cast
+SET cast = REPLACE(cast,' RuPaul', ' RuPaul Charles');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Ashanti', ' Ashanti Douglas');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Revathi', ' Revathi Menon');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Sarala', ' Sarala Kariyawasam ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' E.Kurtis Blow', ' E. Kurtis Blow');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Master P ', 'Percy Robert Miller ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Van Damme Bolo', 'Jean Van Damme Bolo');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jean-Claude Van Damme', 'Van Damme');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Jai White', ' Jai_White');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Panou', ' Panou Mowling');
+
+UPDATE cast
+SET cast = REPLACE(cast,' E-40 ', ' Charlie Hustle ');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Wazheir Lena ', ' Wazheir Lena Abhilash ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Hughley Cedric the Entertainer', 'Hughley Cedric Kyles');
+
+UPDATE cast
+SET cast = REPLACE(cast,'D.L.Hughley', 'Darryl Hughley');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Vanity', 'Denise Matthews');
+
+UPDATE cast
+SET cast = REPLACE(cast,' Craig T.Nelson', ' Craig Nelson');
+
+
+
+
+
+
+UPDATE cast
+SET cast = REPLACE(cast,'Jason Biggs Thomas Ian Nicholas', 'Jason_Biggs Thomas Ian Nicholas');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Stig Frode Henriksen Vegar', 'Stig_Frode Henriksen Vegar');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Patricia Clarkson Lawrence  Jr.', 'Patricia Clarkson Lawrence Jr.');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Scott Eddie Kaye Thomas', 'Scott Eddie Kaye Thomas');
+
+UPDATE cast
+SET cast = REPLACE(cast,'James Van Der', 'James Van_Der');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Cook Penelope Miller', 'Cook Penelope Ann Miller');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Penelope Ann Miller', 'Penelope Miller');
+
+UPDATE cast
+SET cast = REPLACE(cast,'John Canada Terrell', 'John Terrell');
+
+UPDATE cast
+SET cast = REPLACE(cast,'van der Wal', 'van_der Wal');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Sancho Gracia', 'Sancho_Gracia');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Milligan Ibrahim Renno Jr.', 'Milligan Ibrahim Renno');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Catalina Sandino Moreno', 'Catalina Moreno');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Dewi Ni Made Megahadi Pratiwi', 'Dewi Ni_Made Megahadi Pratiwi');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Clarkson Lawrence Gilliard', 'Clarkson Lawrence ');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Benson Miller Lee Norris', 'Benson Miller Norris');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Ari Parker Crista Flanagan', 'Ari Parker Crista_Flanagan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Cool J Jonny Lee Miller', 'Cool J Jonny Miller');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Scott Chris Klein Thomas', 'Scott Chris Klein Thomas Thomas');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Biggs Alyson Hannigan', 'Biggs Alyson_Hannigan');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Anh Le Guy Pearce', 'Anh Le_Guy Pearce');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Haley Jonny Lee Miller', 'Haley Jonny Miller');
+
+UPDATE cast
+SET cast = REPLACE(cast,'Spears  Donovan Womack', 'Spears Donovan Womack');
+
